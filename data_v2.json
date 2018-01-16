@@ -1,0 +1,363 @@
+{
+  "plugins": [
+    {
+      "id": "GOOGLE_DRIVE",
+      "title": "Google Drive",
+      "icon": "files/google-drive/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/yIHsAlhmfvY",
+        "files/google-drive/1.png",
+        "files/google-drive/2.png",
+        "files/google-drive/3.png"
+      ],
+      "overview": "Upload, organize or edit Google Drive documents in RealtimeBoard. No more tab switching or manual synchronization — this smart integration will do that for you.",
+      "description": "<p>A project almost never stays within one file. Usually it turns into a folder full of documents, spreadsheets, slide presentations etc, which makes it challenging to manage a big picture. Try integrating Google Drive with an endless collaborative whiteboard and organize the entire project in one shared space. Authorize your teammates to edit documents right in RealtimeBoard. All the changes are processed online and shown immediately, so everyone always accesses up-to-date documentation.</p><p><b>Key features:</b><ul><li>Support of Google Docs, Sheets and Slides.</li><li>In-app picker of Google Drive documents.</li><li>Import as a live embed with turning pages.</li><li>Ability to edit documents right in RealtimeBoard.</li><li>Automated synchronization of the documents between RealtimeBoard and Google Drive.</li></ul></p>",
+      "tags": [
+        "cloud_storages",
+        "ux_ui_design",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "ONE_DRIVE",
+      "title": "OneDrive",
+      "icon": "files/one-drive/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/_drSoZf-1Gk",
+        "files/one-drive/1.png"
+      ],
+      "overview": "Upload, edit and manage your Microsoft documents in RealtimeBoard. No more tab switching or manual sync — this brainy integration will do all the job for you.",
+      "description": "<p>OneDrive integration allows you to enrich your boards in RealtimeBoard with Microsoft documents (Docs, Excels, PDFs, images, presentations, etc.). Moreover, with granted Editor rights, your teammates will be able to edit the imported documents right in RealtimeBoard. All changes are saved in real time for you to have up-to-date documentation no matter where you are.</p><p><b>Key features:</b><ul><li>Support of images, videos, PDF files, Google Drive documents, and MS Office files.</li><li>In-app picker for file upload from Dropbox.</li><li>Import as embedding live with turning pages.</li><li>Ability to edit documents right in RealtimeBoard.</li><li>Automated file synchronization between RealtimeBoard and OneDrive.</li></ul></p>",
+      "tags": [
+        "cloud_storages",
+        "ux_ui_design",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "BOX",
+      "title": "Box",
+      "icon": "files/box/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/lahSUUgwPIo",
+        "files/box/1.png",
+        "files/box/2.png",
+        "files/box/3.png"
+      ],
+      "overview": "Forget about switching tabs — in-app picker will connect you to your Box files any time you open it in RealtimeBoard. Visual presentation is now at your fingertips!",
+      "description": "<p>Every project is a handful and requires not only your time but also space. Integrating Box cloud storage with an endless collaborative whiteboard will help you organize all the files and the entire project in one shared space. Open the board and start the discussion. Add feedback to your images and documents, mention people and iterate faster!</p><p><b>Key features:</b><ul><li>Support of images, videos, PDF files, Google Drive documents and MS Office files.</li><li>In-app picker for uploading Box files.</li><li>Automated file synchronization between RealtimeBoard and Box.</li></ul></p>",
+      "tags": [
+        "cloud_storages",
+        "ux_ui_design",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "DROP_BOX",
+      "title": "Dropbox",
+      "icon": "files/dropbox/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/UkupYwnH53Q"
+      ],
+      "overview": "Upload, organize and discuss Dropbox files and documents in RealtimeBoard and always keep them up-to-date with auto sync option.",
+      "description": "<p>Integrate Dropbox with our infinite collaborative whiteboard, so that you could manage an entire project from soup to nuts in one shared space. Once you’ve uploaded a document, image, GIF, or video to the board, it will always stay up to date (no matter how minor your changes are). Simply click the Update button in RealtimeBoard and watch your file reload.</p><p><b>Key features:</b><ul><li>Support of images, videos, PDF files, Google Drive documents, and MS Office files.</li><li>In-app picker for upload from Dropbox.</li><li>Automated file synchronization between RealtimeBoard and Dropbox.</li></ul></p>",
+      "tags": [
+        "cloud_storages",
+        "ux_ui_design",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "ADOBE_CREATIVE_CLOUD",
+      "title": "Adobe Creative Cloud",
+      "icon": "files/adobe-cc/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/oN-bxotDds4",
+        "files/adobe-cc/1.png",
+        "files/adobe-cc/2.png"
+      ],
+      "overview": "Upload files from your Adobe Creative Cloud account to the boards and collaborate on them with your team.",
+      "description": "<p>Once you’ve added assets from Adobe Creative Cloud to RealtimeBoard, you can hold an online discussion, leave feedback, mention people and iterate faster. Upload and update the assets right on the board in a couple of clicks. Keep every member of your remote team on the same page and make the creative process more engaging and transparent.</p><p><b>Key features:</b><ul><li>Access Creative Cloud assets right from RealtimeBoard so that you don’t need to manually switch between applications when uploading content.</li><li>Add assets from Creative Cloud to RealtimeBoard and manage the big picture on the same page.</li><li>Share the board with your team to get meaningful feedback and collaborate on assets without emails.</li><li>Update assets directly on the board — no need to upload new versions each time there is a minor change. Any asset uploaded from the Cloud can be updated in one click.</li></ul></p>",
+      "tags": [
+        "ux_ui_design",
+        "cloud_storages"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "GOOGLE_IMAGE_SEARCH",
+      "title": "Google image",
+      "icon": "files/google-image-search/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/KqR5y508CPg"
+      ],
+      "overview": "Save time with Google images when illustrating ideas. Use the most comprehensive image search on the web right from RealtimeBoard.",
+      "description": "<p>Google Images is a search service by Google. It searches for image content across the web. Integrated into RealtimeBoard it allows to pick up images from in-app picker right on the board so that you don’t need to distract from creative process and switch between tabs.</p><p><b>Key features:</b><ul><li>In-app image picker.</li><li>Search by image type and color.</li></ul></p>",
+      "tags": [
+        "ux_ui_design",
+        "brainstorming",
+        "image_banks"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "ICONFINDER",
+      "title": "Iconfinder",
+      "icon": "files/iconfinder/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/ADxDZx_N0ag"
+      ],
+      "overview": "Save time with built-in Iconfinder search right in RealtimeBoard.",
+      "description": "<p>Iconfinder is an icon search service. Integrated into RealtimeBoard it allows to pick up icons from in-app picker right on the board so that you don’t need to distract from creative process and switch between tabs.</p><p><b>Key features:</b><ul><li>In-app image picker.</li><li>Search by image type and color.</li></ul></p>",
+      "tags": [
+        "image_banks",
+        "ux_ui_design",
+        "product_management",
+        "brainstorming"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "UNSPLASH",
+      "title": "Unsplash",
+      "icon": "files/unsplash/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/wo5q7RGxX2Q"
+      ],
+      "overview": "Unsplash search and quickly add beautiful free images and photos to your boards in RealtimeBoard.",
+      "description": "<p>Unsplash is an image and photo search service with over 300 000 copyright-free photography under license of Unsplash. Integrated into RealtimeBoard it allows to add pictures from in-app picker right on the board so that there’s no need to stop the creative process and switch between tabs every now and then. Find inspiration, build moodboards and share results with your team in RealtimeBoard!</p><p><b>Key features:</b><ul><li>In-app image picker.</li></ul></p>",
+      "tags": [
+        "image_banks",
+        "ux_ui_design",
+        "brainstorming"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "JIRA",
+      "title": "Jira cards",
+      "icon": "files/jira/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/8HnOwSxHm-4",
+        "files/jira/1.png"
+      ],
+      "overview": "Jira card is your Jira issue, put on the whiteboard. Use them during remote story sizing, backlog prioritization, story mapping and other team activities.",
+      "description": "<p>Jira cards feature allows to work with Jira issues right in RealtimeBoard. Each card represents a Jira issue and indicates its Type, Priority, Key, Summary, Description, Status,and Assignee.<br>It becomes super helpful during remote retrospectives, story sizing, backlog prioritization, story mapping and other team activities. Together with your teammates you canimport issues from Jira, create new Jira cards in RealtimeBoard, edit, move and comment on them anywhere on the board. Once you make changes in Jira, the card is automaticallyupdated in RealtimeBoard and vice versa.</p><p><b>Key features:</b><ul><li>Adding cards by pasting Jira issues URLs on the board.</li><li>Adding cards using in-app Jira issues picker equipped with various sorting options.</li><li>Searching for Jira issues in the in-app picker by using the Jira Query Language (JQL) and filtering with complex criteria.</li><li>Creating and editing Jira cards right in RealtimeBoard.</li><li>Automated easy-to-read card view change while zooming in and out.</li><li>Manual WebHook setup by Jira admin.</li><li>Support for both Jira Cloud and Jira Server.</li></ul></p>",
+      "tags": [
+        "agile_management",
+        "product_management",
+        "project_management",
+        "productivity",
+        "task_trackers"
+      ],
+      "availableAccountTypes": [
+        "PAID_TEAM",
+        "TEAM"
+      ],
+      "hasSettings": true
+    },
+    {
+      "id": "WIREFRAMES",
+      "title": "Wireframes library",
+      "icon": "files/wireframes/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/E6q18PKxdZs",
+        "files/wireframes/1.png"
+      ],
+      "overview": "Create mock-ups and prototypes right on the board using the interactive library of prototyping elements.",
+      "description": "<p>RealtimeBoard built-in wireframing library includes about 60 UI design patterns. Similar to Lego bricks they can be easily combined to help you create unique low-fidelity mockups at no effort. It is a handy timesaver for the people who prefer to communicate with simple visuals and skip unnecessary beautification. Iterating speed and dialogues are the most important things when creating new products and RealtimeBoard wireframes library is here to help. Create, share and iterate with simple wireframes.</p><p><b>Key features:</b><ul><li>In-app wireframe picker.</li><li>UI patterns with customizable color and size.</li><li>Text objects (f.ex. buttons) are editable.</li></ul></p>",
+      "tags": [
+        "ux_ui_design",
+        "product_management",
+        "image_banks"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "SLACK",
+      "title": "Slack",
+      "icon": "files/slack/icon.svg",
+      "images": [],
+      "overview": "Get instant notifications about new comments on your boards delivered to Slack channels.",
+      "description": "<p>This handy integration lets you keep an eye on users activity on your boards. Once you connect a board to a channel, each comment or mention lands right to Slack in real time. To help you navigate on the board we pinned each point of discussion to Slack notifications as URL links. Thus handling RealtimeBoard discussions becomes a kind of simple and typical daily activity: all you need to do is just to switch between Slack channels.</p><p><b>Key features:</b><ul><li>Instant notifications about new comments and mentions from the board for all channel members.</li><li>URL links are automatically pinned to each notification and lead to the comment on the board.</li></ul></p>",
+      "tags": [
+        "productivity",
+        "communication",
+        "agile_management",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "debug": true,
+      "id": "VOTING",
+      "title": "Voting",
+      "icon": "files/voting/icon.svg",
+      "images": [],
+      "overview": "Todo: add overview",
+      "description": "Todo: add description",
+      "tags": [
+        "brainstorming",
+        "ux_ui_design",
+        "agile_management",
+        "product_management",
+        "project_management",
+        "productivity"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "VIDEO_CHAT",
+      "title": "Video chat",
+      "icon": "files/video-chat/icon.svg",
+      "images": [],
+      "overview": "When working on the board start a video call or join an existing session to make communication between distributed team members more engaging.",
+      "description": "<p>Powerful combination of the video chat and a collaborative whiteboard supports all the needs of the remote or distributed group work, creates a cohesive team environment and gives a real-time presence feeling.</p><p><b>Key features:</b><ul><li>Up to 25 users can simultaneously participate in a video chat session.</li><li>Option to use either voice or video chat.</li></ul></p>",
+      "tags": [
+        "communication",
+        "agile_management",
+        "product_management",
+        "project_management",
+        "brainstorming"
+      ],
+      "availableAccountTypes": [
+        "PREMIUM",
+        "PAID_TEAM",
+        "TEAM"
+      ],
+      "hasSettings": false
+    },
+    {
+      "id": "CHAT",
+      "title": "Chat",
+      "icon": "files/chat/icon.svg",
+      "images": [],
+      "overview": "Open Chat in RealtimeBoard to start live discussions right on the board.",
+      "description": "<p>Use the powerful combination of a live chat and a collaborative whiteboard. Create an engaging work environment for your remote or distributed team and discuss issues with no delays.</p><p><b>Key features:</b><ul><li>Mention teammates starting your message with @</li><li>Message history</li></ul></p>",
+      "tags": [
+        "communication",
+        "agile_management",
+        "product_management",
+        "project_management",
+        "brainstorming"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "TABLES_AND_CHARTS",
+      "title": "Tables & charts",
+      "icon": "files/tables-and-charts/icon.svg",
+      "images": [
+        "https://www.youtube.com/embed/6vDVbd0aTbE"
+      ],
+      "overview": "Create dashboards for operational meetings, prove ideas with data and visualize key figures using editable tables and charts in RealtimeBoard.",
+      "description": "<p>Review performance or research data with customizable tables and charts right in RealtimeBoard. Examine trends, discover insights and build hypothesis having a helicopter view on the relevant project data.</p><p><b>Key features:</b><ul><li>Chart types: pie chart, column chart, bar chart, funnel chart.</li><li>Double-click a chart or a table to edit text, title, description and legend.</li></ul></p>",
+      "tags": [
+        "data_visualization",
+        "agile_management",
+        "product_management",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    },
+    {
+      "id": "FROM_CHROME_EXTENSION",
+      "title": "Extension for Chrome",
+      "icon": "files/from-chrome-extension/icon.svg",
+      "images": [
+        "files/from-chrome-extension/1.png",
+        "files/from-chrome-extension/2.png",
+        "files/from-chrome-extension/3.png"
+      ],
+      "overview": "Add zest to your RealtimeBoard image library by simply surfing the web and taking screenshots via our Chrome extension.",
+      "description": "<p>Capture web pages while in Chrome and save them into your RealtimeBoard library while putting in as little effort as possible. All you need to do to take a screenshot is click the extension’s icon in the Chrome toolbar and choose between three mode options: Visible area, Selected area, or Entire page.</p><p><b>Key features:</b><ul><li>Capturing web pages in three different modes.</li><li>Automated screenshot and image upload into the RealtimeBoard library.</li></ul></p>",
+      "tags": [
+        "productivity",
+        "ux_ui_design",
+        "project_management"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "workflow",
+      "title": "Workflow",
+      "tags": [
+        {
+          "id": "ux_ui_design",
+          "title": "UX/UI design"
+        },
+        {
+          "id": "agile_management",
+          "title": "Agile management"
+        },
+        {
+          "id": "product_management",
+          "title": "Product management"
+        },
+        {
+          "id": "project_management",
+          "title": "Project management"
+        },
+        {
+          "id": "brainstorming",
+          "title": "Brainstorming"
+        }
+      ]
+    },
+    {
+      "id": "integrations",
+      "title": "Integrations",
+      "tags": [
+        {
+          "id": "productivity",
+          "title": "Productivity"
+        },
+        {
+          "id": "communication",
+          "title": "Communication"
+        },
+        {
+          "id": "cloud_storages",
+          "title": "Cloud storages"
+        },
+        {
+          "id": "task_trackers",
+          "title": "Task trackers"
+        },
+        {
+          "id": "image_banks",
+          "title": "Image/icon banks"
+        },
+        {
+          "id": "data_visualization",
+          "title": "Data visualization"
+        }
+      ]
+    }
+  ]
+}
