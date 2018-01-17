@@ -173,6 +173,36 @@
       "hasSettings": true
     },
     {
+      "debug": true,
+      "id": "RALLY",
+      "title": "CA Agile Central (Rally)",
+      "icon": "files/rally/icon.svg",
+      "images": [
+        "files/rally/1.png",
+        "files/rally/2.png"
+      ],
+      "overview": "Import your CA Agile Central tasks as handy cards and enjoy backlog prioritization, story mapping, and other team activities right in RealtimeBoard.",
+      "description": "<p>CA Agile cards feature allows to work with CA Agile Central items right in RealtimeBoard. Each card represents a user story, task, or defect and indicates its Number, Name, Owner, Iteration, Release, Status, Schedule State, and State (for defects only).</p><p>Helpful during remote sprint planning, retrospectives, backlog prioritization, story mapping, and other team activities, task import from CA Agile Central gives you and your teammates the possibility to edit, move and comment Rally tasks anywhere on the board. Once you make changes in CA Agile Central, the card is automatically updated in RealtimeBoard.</p><p>Thanks to this integration, any distributed team can organize collaborative story mapping sessions, seeing everyone engaged in the process in real time. And when it’s over, the team is ready to start the next sprint, having a single shared understanding of what needs to be done.</p>",
+      "tags": [
+        "ux_ui_design",
+        "agile_management",
+        "product_management",
+        "project_management",
+        "brainstorming",
+        "diagramming",
+        "productivity",
+        "cloud_storages",
+        "task_trackers",
+        "image_banks",
+        "bots"
+      ],
+      "availableAccountTypes": [
+        "PAID_TEAM",
+        "TEAM"
+      ],
+      "hasSettings": true
+    },
+    {
       "id": "WIREFRAMES",
       "title": "Wireframes library",
       "icon": "files/wireframes/icon.svg",
@@ -326,6 +356,10 @@
         {
           "id": "brainstorming",
           "title": "Brainstorming"
+        },
+        {
+          "id": "diagramming",
+          "title": "Diagramming"
         }
       ]
     },
@@ -356,6 +390,10 @@
         {
           "id": "data_visualization",
           "title": "Data visualization"
+        },
+        {
+          "id": "bots",
+          "title": "Bots"
         }
       ]
     }
