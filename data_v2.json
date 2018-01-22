@@ -329,7 +329,9 @@
       "id": "COUNTDOWN",
       "title": "Countdown timer",
       "icon": "files/countdown/icon.svg",
-      "images": [],
+      "images": [
+        "https://www.youtube.com/embed/HoqGI5HGisg"
+      ],
       "overview": "The RealtimeBoard countdown timer helps manage and track your time while running a whiteboarding session in real-time.",
       "description": "<p>No matter if you are a team member, group leader, or just want to manage your personal projects and meet the deadline — our countdown timer will boost your productivity by taking care of your most precious resource with perfect timing.</p>",
       "tags": [
