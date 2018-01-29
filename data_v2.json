@@ -325,7 +325,6 @@
       "hasSettings": false
     },
     {
-      "debug": true,
       "id": "COUNTDOWN",
       "title": "Countdown timer",
       "icon": "files/countdown/icon.svg",
