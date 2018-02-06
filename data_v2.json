@@ -167,6 +167,7 @@
         "task_trackers"
       ],
       "availableAccountTypes": [
+        "FREE_TEAM",
         "PAID_TEAM",
         "TEAM"
       ],
@@ -264,7 +265,6 @@
         "brainstorming"
       ],
       "availableAccountTypes": [
-        "PREMIUM",
         "PAID_TEAM",
         "TEAM"
       ],
