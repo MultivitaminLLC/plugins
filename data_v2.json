@@ -336,38 +336,6 @@
       ],
       "availableAccountTypes": "*",
       "hasSettings": false
-    },
-    {
-      "id": "CISCO_ICONS",
-      "title": "Cisco icon pack",
-      "icon": "files/cisco/icon.svg",
-      "images": [],
-      "overview": "Create network diagrams easily with Cisco icons set.",
-      "description": "RealtimeBoard Cisco stencils library contains symbols for drawing the computer network diagrams and equipment connections easily. IT professionals and IT departments now have a simple way to visualize Cisco networks inside infinite boards.",
-      "tags": [
-        "image_banks",
-        "ux_ui_design",
-        "brainstorming"
-      ],
-      "availableAccountTypes": "*",
-      "hasSettings": false,
-      "debug": true
-    },
-     {
-      "id": "AWS_ICONS",
-      "title": "AWS icon pack",
-      "icon": "files/aws/icon.svg",
-      "images": [],
-      "overview": "Use Amazon icons library for quick architecture diagramming.",
-      "description": "Build diagrams using AWS Simple Icons. These icons are one of the most common and widely used sets for technical diagramming. Choose from several categories or use built-in search to find what fits your scheme, and put icons on your board.",
-      "tags": [
-        "image_banks",
-        "ux_ui_design",
-        "brainstorming"
-      ],
-      "availableAccountTypes": "*",
-      "hasSettings": false,
-      "debug": true
     }
   ],
   "categories": [
