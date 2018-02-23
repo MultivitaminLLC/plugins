@@ -302,25 +302,6 @@
       "hasSettings": false
     },
     {
-      "id": "FROM_CHROME_EXTENSION",
-      "title": "Extension for Chrome",
-      "icon": "files/from-chrome-extension/icon.svg",
-      "images": [
-        "files/from-chrome-extension/1.png",
-        "files/from-chrome-extension/2.png",
-        "files/from-chrome-extension/3.png"
-      ],
-      "overview": "Add zest to your RealtimeBoard image library by simply surfing the web and taking screenshots via our Chrome extension.",
-      "description": "<p>Capture web pages while in Chrome and save them into your RealtimeBoard library while putting in as little effort as possible. All you need to do to take a screenshot is click the extension’s icon in the Chrome toolbar and choose between three mode options: Visible area, Selected area, or Entire page.</p><p><b>Key features:</b><ul><li>Capturing web pages in three different modes.</li><li>Automated screenshot and image upload into the RealtimeBoard library.</li></ul></p>",
-      "tags": [
-        "productivity",
-        "ux_ui_design",
-        "project_management"
-      ],
-      "availableAccountTypes": "*",
-      "hasSettings": false
-    },
-    {
       "id": "COUNTDOWN",
       "title": "Countdown timer",
       "icon": "files/countdown/icon.svg",
