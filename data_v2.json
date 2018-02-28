@@ -236,7 +236,9 @@
       "id": "VOTING",
       "title": "Voting plugin",
       "icon": "files/voting/icon.svg",
-      "images": [],
+      "images": [
+        "https://www.youtube.com/embed/jZrtTCLJE0k"
+      ],
       "overview": "Collect ideas on the interactive online whiteboard and invite your team from any part of the world to vote for them.",
       "description": "<p>Take remote collaboration to the next level and invest into ideas that the majority of your team believes in. With this plugin you can carry out a voting session for your team regardless their roles and location. Put your ideas on the digital sticky notes, texts, shapes or images and and choose the best ones.</p><p> Key features: </p><ul><li>Any board editor can create a new voting session.</li><li>Any registered user invited to the board can participate in the voting session.</li><li>An editor that starts a voting session can customize its name, duration, number of votes per person and the objects for voting.</li> <li> Voting duration can be set up from 1 minute up to 99 hours.</li><li>Number of votes per person is currently limited to 10.</li><li>To keep it all fair, the votes are displayed only when the voting session is over.</li></ul>",
       "tags": [
