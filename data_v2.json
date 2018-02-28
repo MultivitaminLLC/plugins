@@ -232,7 +232,6 @@
       "hasSettings": false
     },
     {
-      "debug": true,
       "id": "VOTING",
       "title": "Voting plugin",
       "icon": "files/voting/icon.svg",
