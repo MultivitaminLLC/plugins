@@ -335,7 +335,7 @@
       "hasSettings": false,
       "debug": true
     },
-     {
+    {
       "id": "AWS_ICONS",
       "title": "AWS icon pack",
       "icon": "files/aws/icon.svg",
@@ -346,6 +346,21 @@
         "image_banks",
         "ux_ui_design",
         "brainstorming"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false,
+      "debug": true
+    },
+    {
+      "id": "AZURE_ICONS",
+      "title": "Microsoft Azure Icon Set",
+      "icon": "files/azure/icon.svg",
+      "images": [],
+      "overview": "Browse built-in Microsoft Azure icon set to create the computer network and architecture diagrams on the fly.",
+      "description": "<p>Install Microsoft Azure add-on to browse the icons library and build network diagrams right on the board in RealtimeBoard. IT professionals and IT departments would be glad to have a simple way to visualize the features and system structures that use Microsoft Azure and related cloud and on-premises technologies.</p>",
+      "tags": [
+        "image_banks",
+        "diagramming"
       ],
       "availableAccountTypes": "*",
       "hasSettings": false,
@@ -376,6 +391,10 @@
         {
           "id": "brainstorming",
           "title": "Brainstorming"
+        },
+        {
+          "id": "diagramming",
+          "title": "Diagramming"
         }
       ]
     },
