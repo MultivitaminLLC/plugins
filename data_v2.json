@@ -322,7 +322,7 @@
     },
     {
       "id": "CISCO_ICONS",
-      "title": "Cisco icon pack",
+      "title": "Cisco icon set",
       "icon": "files/cisco/icon.svg",
       "images": [],
       "overview": "Create network diagrams easily with Cisco icon set.",
@@ -333,12 +333,11 @@
         "brainstorming"
       ],
       "availableAccountTypes": "*",
-      "hasSettings": false,
-      "debug": true
+      "hasSettings": false
     },
     {
       "id": "AWS_ICONS",
-      "title": "AWS icon pack",
+      "title": "AWS icon set",
       "icon": "files/aws/icon.svg",
       "images": [],
       "overview": "Use Amazon icon library for quick architecture diagramming.",
@@ -349,8 +348,7 @@
         "brainstorming"
       ],
       "availableAccountTypes": "*",
-      "hasSettings": false,
-      "debug": true
+      "hasSettings": false
     },
     {
       "id": "AZURE_ICONS",
@@ -364,8 +362,7 @@
         "diagramming"
       ],
       "availableAccountTypes": "*",
-      "hasSettings": false,
-      "debug": true
+      "hasSettings": false
     }
   ],
   "categories": [
