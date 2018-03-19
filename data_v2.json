@@ -169,7 +169,8 @@
       "availableAccountTypes": [
         "FREE_TEAM",
         "PAID_TEAM",
-        "TEAM"
+        "TEAM",
+        "FREE_TEAM_2018"
       ],
       "hasSettings": true
     },
