@@ -361,6 +361,19 @@
       ],
       "availableAccountTypes": "*",
       "hasSettings": false
+    },
+    {
+      "id": "PINTEREST",
+      "title": "Pinterest",
+      "icon": "files/pinterest/icon.svg",
+      "overview": "Easily add your Pins right in RealtimeBoard with this handy plugin.",
+      "description": "<p>Discover information and get inspired with Pinterest, your personal catalogue of ideas. Search for images and do your thing never having to leave your whiteboard.</p><p><b>Key features:</b><ul><li>In-app image picker.</li><li>Search by pins.</li></ul></p>",
+      "tags": [
+        "image_banks"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false,
+      "debug": true
     }
   ],
   "categories": [
