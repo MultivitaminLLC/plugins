@@ -366,9 +366,10 @@
       "id": "PINTEREST",
       "title": "Pinterest",
       "icon": "files/pinterest/icon.svg",
-      "overview": "Easily add your Pins right in RealtimeBoard with this handy plugin.",
-      "description": "<p>Discover information and get inspired with Pinterest, your personal catalogue of ideas. Search for images and do your thing never having to leave your whiteboard.</p><p><b>Key features:</b><ul><li>In-app image picker.</li><li>Search by pins.</li></ul></p>",
+      "overview": "Easily add your Pins to RealtimeBoard with this handy plugin.",
+      "description": "<p>Pull out images from your Pinterest account right onto the board, arrange and organize them, relate different media from across the web, comment and share the result with your colleagues and get feedback right in RealtimeBoard.</p><p><b>Key features:</b><ul><li>Navigate your Pinterest boards and pins with in-app picker.</li><li>Search among your pins by keywords.</li><li>Import images to RealtimeBoard workspace.</li></ul></p>",
       "tags": [
+        "ux_ui_design",
         "image_banks"
       ],
       "availableAccountTypes": "*",
