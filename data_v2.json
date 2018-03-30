@@ -216,23 +216,6 @@
       "hasSettings": false
     },
     {
-      "id": "SLACK",
-      "title": "Slack",
-      "icon": "files/slack/icon.svg",
-      "images": [],
-      "overview": "Get instant notifications about new comments on your boards delivered to Slack channels.",
-      "description": "<p>This handy integration lets you keep an eye on users activity on your boards. Once you connect a board to a channel, each comment or mention lands right to Slack in real time. To help you navigate on the board we pinned each point of discussion to Slack notifications as URL links. Thus handling RealtimeBoard discussions becomes a kind of simple and typical daily activity: all you need to do is just to switch between Slack channels.</p><p><b>Key features:</b><ul><li>Instant notifications about new comments and mentions from the board for all channel members.</li><li>URL links are automatically pinned to each notification and lead to the comment on the board.</li></ul></p>",
-      "tags": [
-        "productivity",
-        "communication",
-        "agile_management",
-        "product_management",
-        "project_management"
-      ],
-      "availableAccountTypes": "*",
-      "hasSettings": false
-    },
-    {
       "id": "VOTING",
       "title": "Voting plugin",
       "icon": "files/voting/icon.svg",
@@ -366,6 +349,7 @@
       "id": "PINTEREST",
       "title": "Pinterest",
       "icon": "files/pinterest/icon.svg",
+      "images": [],
       "overview": "Easily add your Pins to RealtimeBoard with this handy plugin.",
       "description": "<p>Pull out images from your Pinterest account right onto the board, arrange and organize them, relate different media from across the web, comment and share the result with your colleagues and get feedback right in RealtimeBoard.</p><p><b>Key features:</b><ul><li>Navigate your Pinterest boards and pins with in-app picker.</li><li>Search among your pins by keywords.</li><li>Import images to RealtimeBoard workspace.</li></ul></p>",
       "tags": [
