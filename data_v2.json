@@ -359,6 +359,19 @@
       "availableAccountTypes": "*",
       "hasSettings": false,
       "debug": true
+    },
+    {
+      "id": "RTB_STICKER_PACK",
+      "title": "RealtimeBoard Stickers",
+      "icon": "files/rtb-sticker-pack/icon.svg",
+      "overview": "Add a dash of humour, colour and humanity to your digital communication with RealtimeBoard stickers. Use them to make your team working sessions more engaging and collaborative.",
+      "description": "Add RealtimeBoard stickers to your boards to collaborate visually and understand your team members in even fewer words. Stickers are created with product owners, designers, developers and Agile coaches in mind so many teams will find something to make their communication more productive and fun.",
+      "tags": [
+        "image_banks"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false,
+      "debug": true
     }
   ],
   "categories": [
