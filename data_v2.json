@@ -370,7 +370,8 @@
         "image_banks"
       ],
       "availableAccountTypes": "*",
-      "hasSettings": false
+      "hasSettings": false,
+      "debug": true
     }
   ],
   "categories": [
