@@ -20,3 +20,5 @@
 **availableAccountTypes** {Array<string>|'*'} List of available plans. ex: \['PAID_TEAM', 'NEW_PREMIUM'\]. '\*' means plugin available in all plans.
 
 **hasSettings** {boolean} flag for settings button
+
+**oauthLink** {string} optional link to oAuth installation

@@ -372,6 +372,20 @@
       "availableAccountTypes": "*",
       "hasSettings": false,
       "debug": true
+    },
+    {
+      "id": "THE_NOUN_PROJECT",
+      "title": "The Noun Project",
+      "icon": "files/rtb-sticker-pack/icon.svg",
+      "overview": "Icons for everything. Over a million curated icons, created by a global community.",
+      "description": "<p>Add icon to your boards to collaborate visually and understand your team members in even fewer words.</p>",
+      "tags": [
+        "image_banks"
+      ],
+      "availableAccountTypes": "*",
+      "hasSettings": false,
+      "debug": true,
+      "oauthLink": "https://realtimeboard.com/oauth/authorize/?response_type=code&client_id=thenounproject&redirect_uri=https://realtimeboard.com/fake_app/"
     }
   ],
   "categories": [
